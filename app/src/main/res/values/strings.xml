@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">InventStore</string>
+    <!-- Message to display when no product is stored -->
+    <string name="empty_view_text">No Products Stored</string>
+    <!-- Message to explain how to add data when the list is empty -->
+    <string name="empty_view_subtitle_text">* Click on the Add button below to insert a new product\n* Make sure to fill in the required fields</string>
+    <!-- Sold button-->
+    <string name="sold_button_text">Sold</string>
+
+    <string name="product_name">Product Name:</string>
+    <string name="product_price">Product Price:</string>
+    <string name="product_quantity">Product Quantity:</string>
+    <string name="supplier_name">Supplier\'s name</string>
+    <string name="supplier_number">Supplier\'s phone number</string>
+    <string name="initial_quantity_value">0</string>
+    <string name="contact_supplier">Contact supplier</string>
+    <string name="action_delete_all_entries">Delete all products</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="title_insert_product">Insert a product</string>
+    <string name="title_edit_product">Edit a product</string>
+    <string name="insert_failed">Error inserting the product</string>
+    <string name="insert_successful">Product inserted successfully</string>
+    <string name="update_failed">Error updating the product</string>
+    <string name="update_successful">Product updated sucessfully</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_successful">Product deleted</string>
+    <string name="delete_failed">Error with deleting product</string>
+    <string name="delete_dialog_msg">Delete this product?</string>
+    <string name="cancel">Cancel</string>
+    <string name="sale_failed">Error with product Sale</string>
+    <string name="sale_successful">Product sold</string>
+    <string name="out_of_stock">Product Out Of Stock</string>
+
+</resources>
